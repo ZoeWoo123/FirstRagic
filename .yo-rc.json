@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.sded.zoetest"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "FirstRagic",
+    "packageName": "com.sded.zoetest",
+    "packageFolder": "com/sded/zoetest",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzU5OTAyZjVlZmEzMmE0NDgwNWVmYjdmOWM1N2FkNWRiZGZkZjEyNWM1NDg5NjM5YTE1YzUwZjMxY2ZmNzU2OGMxMzIzNmJiOWM1NjQ0Y2UxNTJkODRlMDZjZWNmYWNmMGYyZGUyYzAxOWVmYmExMjFhOTlhMDFkNjczNjYxYzE=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1616125787661,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
