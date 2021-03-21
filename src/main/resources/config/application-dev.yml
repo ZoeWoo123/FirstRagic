@@ -93,4 +93,7 @@ jhipster:
 # https://www.jhipster.tech/common-application-properties/
 # ===================================================================
 
-# application:
+application:
+  key: 1234567
+  ragic:
+    apiKey: VEYxNE5hM1o2b01WWHBuc1Z5MWZic21kSlY5YXpNcEI1eXJvZG55MEN5Y280eWE2YW1uYXl4Qyt5Tnp3Vk95Rg==
